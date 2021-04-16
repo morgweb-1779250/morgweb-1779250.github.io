@@ -1,0 +1,17 @@
+body {
+    background-color: grey
+}
+
+
+#Job_title {
+    border: solid 8px black;
+    font-size: 40px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#chiptole {
+    border: solid 3px black;
+    font-size: 20px;
+    border-color: red;
+	font-family:Verdana, Geneva, Tahoma, sans-serif    
+}
